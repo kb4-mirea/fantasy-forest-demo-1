@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d79cb9ecc0d4a6d428ab98a681a33897, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeAreaShownRange: {x: -2.001296, y: 319.20673}
+  timeAreaShownRange: {x: -3.9710898, y: 478.51633}
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 133.08333333333334
+  windowTime: 154.48333333333332
   verticalScroll: 0
   showMarkerHeader: 0
   sequencerHeaderWidth: 315
@@ -25,10 +25,10 @@ MonoBehaviour:
   - {fileID: -4490745609205397535, guid: e5d6c6475b65c234c9e8bdae5ed9660f, type: 2}
   - {fileID: -1253056230902244636, guid: e5d6c6475b65c234c9e8bdae5ed9660f, type: 2}
   - {fileID: 9109681391208735458, guid: e5d6c6475b65c234c9e8bdae5ed9660f, type: 2}
-  - {fileID: 6187585120888801563, guid: e5d6c6475b65c234c9e8bdae5ed9660f, type: 2}
   - {fileID: 7428270435030261005, guid: e5d6c6475b65c234c9e8bdae5ed9660f, type: 2}
   - {fileID: 1595062602297041412, guid: e5d6c6475b65c234c9e8bdae5ed9660f, type: 2}
   - {fileID: -9142337115987064051, guid: e5d6c6475b65c234c9e8bdae5ed9660f, type: 2}
+  - {fileID: -8883041667056732464, guid: e5d6c6475b65c234c9e8bdae5ed9660f, type: 2}
   m_Vals:
   - collapsed: 0
     showMarkers: 1
